@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiyaadev" alt="aiyaadev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently assistant researching on **Vertebral compression fracture Detection 🦴**
 
 - 🌱 I’m currently learning **MLOps, Pipeline Orchestration 🔒**
@@ -21,6 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/iya chomchan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iya chomchan" height="30" width="40" /></a>
+<a href="https://fb.com/ya cgomchan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ya cgomchan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/yato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yato" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
