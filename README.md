@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **MLOps, Pipeline Orchestration 🔒**
 
-- 👨🏻‍💻 I’m currently developing **soon...... 👀**
+- 👨🏻‍💻 I’m currently developing **CPR Platform accross IoT Project 👀**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP, and AWS 🍭**
+- 💬 Ask me about **Architecture in Cloud, System and Business Model 🍭**
 
 - 📫 How to reach me **chomchan.independent@gmail.com**
 
-- ⚡ Hobbies **Statistics Puzzles, Reading, Football ⚽️**
+- ⚡ Hobbies **Sports, Studies ⚽️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
