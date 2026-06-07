@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently assistant researching on **Vertebral compression fracture Detection 🦴**
 
-- 🌱 I’m currently learning **MLOps, Pipeline Orchestration 🔒**
+- 🌱 I’m currently learning **AIOps, Pipeline Orchestration 🔒**
 
 - 👨🏻‍💻 I’m currently developing **CPR Platform accross IoT Project 👀**
 
