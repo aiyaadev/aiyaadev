@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aiya</h1>
-<h3 align="center">A passionate Data Scientist from Thailand</h3>
+<h3 align="center">A Small guy who loves built</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiyaadev&label=Profile%20views&color=0e75b6&style=flat" alt="aiyaadev" /> </p>
 
